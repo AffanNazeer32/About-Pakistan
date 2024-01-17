@@ -1,0 +1,97 @@
+*{
+    text-align: center;
+    align-items: center;
+}
+header{
+    display: flex;
+    background-color: gray;
+    margin: 5px;
+    padding: 10px;
+    justify-content: space-between;
+}
+#m1{
+    background-color: red;
+    border: 8px solid brown;
+    padding-left:15px ;
+    padding-right:15px ;
+}
+.m2{
+    background-color: aquamarine;
+    border: 8px solid green;
+    padding-left:15px ;
+    padding-right:15px ;
+    padding-top: 10px;
+}
+#m3{
+    background-color: wheat;
+    border: 8px solid lightblue;
+    padding-left:15px ;
+    padding-right:15px ;
+    padding-top: 15px;
+}
+
+#s1{
+    display: flex;
+}
+.h1{
+    font-size: 70px;
+    border: 15px solid yellowgreen;
+    margin-top: 0;
+    background: rgb(40, 142, 40);
+}
+.s2{
+    border: 10px double red;
+}
+.a1{
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 50px;
+}
+.a2{
+    font-size: 15px;
+}
+main{
+    border: 3px solid blueviolet;
+    padding: 2%;
+    background:greenyellow;
+}
+FOOTER{
+    background: lawngreen;
+    border: 10px double red;
+    margin-top: 5px;
+   margin-bottom: 5px;
+} 
+#b1{
+    border: 10px double red;
+}
+.b6{
+    background-image: url("t11.jpg");
+}
+.b5{
+    background-image: url("t8.jpg");
+}
+.b4{
+    background-image: url("t2.jpg");
+}
+.b3{
+    background-image: url("t8.jpg");
+}
+.b2{
+    background-image: url("t2.jpg");
+}
+.b1{
+    background-image: url("t7.jpg");
+}
+.h2{
+    font-size: 45px;
+    color: coral;
+}
+/*h3{
+    font-size: 30px;
+    color: antiquewhite;
+}*/
+.a2{
+    font-size: 20px;
+color: white;
+}

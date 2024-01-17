@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+}
+main{
+    display: flex;
+    background-color: gray;
+    margin: 5px;
+    padding: 10px;
+    justify-content: space-between;
+}
+#m1{
+    background-color: red;
+    border: 8px solid brown;
+    padding-left:15px ;
+    padding-right:15px ;
+}
+.m2{
+    background-color: aquamarine;
+    border: 8px solid green;
+    padding-left:15px ;
+    padding-right:15px ;
+    padding-top: 10px;
+}
+#m3{
+    background-color: wheat;
+    border: 8px solid lightblue;
+    padding-left:15px ;
+    padding-right:15px ;
+    padding-top: 15px;
+}
+footer{
+    display: flex;
+   
+}
+nav{
+    
+    display: flex;
+    flex-direction: column;
+}
+header{
+    
+    display: flex;
+}
+.z1{
+    background-color: gray;
+    border: 5px double red;
+}

@@ -1,0 +1,46 @@
+*{
+    text-align: center;
+    align-items: center;
+}
+body{
+    background-color: aquamarine;
+}
+form{
+    padding: 2%;
+    margin-left: 25%;
+    border: 5px double blue;
+    width: 50%;
+    background-color: antiquewhite;
+}
+input{
+    border: 2px solid red;
+    background-color: rgb(182, 161, 131);
+    color: white;
+}
+main{
+    display: flex;
+    background-color: gray;
+    margin: 5px;
+    padding: 10px;
+    justify-content: space-between;
+}
+#m1{
+    background-color: red;
+    border: 8px solid brown;
+    padding-left:15px ;
+    padding-right:15px ;
+}
+.m2{
+    background-color: aquamarine;
+    border: 8px solid green;
+    padding-left:15px ;
+    padding-right:15px ;
+    padding-top: 10px;
+}
+#m3{
+    background-color: wheat;
+    border: 8px solid lightblue;
+    padding-left:15px ;
+    padding-right:15px ;
+    padding-top: 15px;
+}
